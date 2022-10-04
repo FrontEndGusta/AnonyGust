@@ -4,6 +4,7 @@
 - 💞️ Procuro colaborar em projetos relacionados a tecnologia.
 - 👾 Cursando Análise e Desenvolvimento de Sistemas 5º Semestre.*
 
+
   <div align="center">
   <a href="https://github.com/AnonyGust">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnonyGust&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
