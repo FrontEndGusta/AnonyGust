@@ -1,8 +1,8 @@
- - 👋 Hi, I’m @Gustavo Silva
-- 👀 I’m interested in Programação orientada a objetos (java, c#, javascript).
-- 🌱 I’m currently learning  Análise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on  em projetos  relacionados a tecnologia.
--    *Cursando Análise e Desenvolvimento de Sistemas 5º Semestre.*
+- 👋 Olá, sou o @Gustavo Silva
+- 👀 Tenho interesse em Programação orientada a objetos (java, c#, javascript).
+- 🌱 Atualmente estou aprendendo Análise e desenvolvimento de sistemas
+- 💞️ Procuro colaborar em projetos relacionados a tecnologia.
+- 👾 Cursando Análise e Desenvolvimento de Sistemas 5º Semestre.*
 
   <div align="center">
   <a href="https://github.com/AnonyGust">
