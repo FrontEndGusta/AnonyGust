@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @Gustavo Silva
-- 👀 Tenho interesse em Programação orientada a objetos (java, c#, javascript).
+- 👀 Tenho interesse em Programação orientada a objetos (html, css, javascript e react).
 - 👾 Cursando Análise e Desenvolvimento de Sistemas 5º Semestre.*
 - 💞️ Procuro colaborar em projetos relacionados a tecnologia.
 
