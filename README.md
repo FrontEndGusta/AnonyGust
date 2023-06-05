@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @Gustavo Silva
-- 👀 Tenho interesse em Programação orientada a objetos (html, css, javascript e react).
-- 👾 Cursando Análise e Desenvolvimento de Sistemas 5º Semestre.*
+- 👀 Tenho interesse em Front-End (html, css, javascript e react).
+- 👾 Cursando Análise e Desenvolvimento de Sistemas 6º Semestre.*
 - 💞️ Procuro colaborar em projetos relacionados a tecnologia.
 
   <div align="center">
